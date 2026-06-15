@@ -1,9 +1,13 @@
-# Utility functions
-
-def greet(name):
-    """Greet a person by name."""
-    return f"Hello, {name}!"
-
 def add(a, b):
-    """Add two numbers."""
     return a + b
+
+def subtract(a, b):
+    return a - b
+
+def multiply(a, b):
+    return a * b
+
+def divide(a, b):
+    if b == 0:
+        return "Cannot divide by zero"
+    return a / b
