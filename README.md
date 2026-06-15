@@ -1,3 +1,7 @@
 # Git Practice Project
 
-This project is for practicing Git workflows and version control.
+## Name
+Abtahi Hossain
+
+## Description
+This project demonstrates Git and GitHub operations including branching, merging, and version control.

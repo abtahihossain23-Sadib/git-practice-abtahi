@@ -1,7 +1,4 @@
-# Main module
+from datetime import date
 
-def main():
-    print("Welcome to git-practice-abtahi project!")
-
-if __name__ == "__main__":
-    main()
+print("Name: Abtahi Hossain")
+print("Today's Date:", date.today())
